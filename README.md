@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### ***Frontend Architect*** | ***Senior Cross-Platform Desktop App developer*** | ***Public Speaker***
+###### ***Software/Web Developer*** | ***IT Specialist*** | ***Public Speaker***
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
