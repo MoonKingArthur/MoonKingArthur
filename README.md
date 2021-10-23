@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Arthur! 👋
 ###### ***Software/Web Developer*** | ***IT Specialist*** | ***Public Speaker***
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, HTML, Markdown
