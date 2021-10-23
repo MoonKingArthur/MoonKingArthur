@@ -1,30 +1,18 @@
 ### Hi there 👋
 ###### ***Software/Web Developer*** | ***IT Specialist*** | ***Public Speaker***
 
-* **Languages:** JavaScript (ES2021), Node.js, CSS, Sass, HTML, Markdown
-* **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI, Backbone.js, Riot, Meteor, Angular (1 & 9), Bootstrap, Bulma
+* **Languages:** JavaScript (ES2021), Node.js, CSS, HTML, Markdown
+* **Frameworks:** React.js, Bootstrap
 * **Skills:** Agile, UX, Responsive Web Design, Site & Image Optimization, Accessibility, Localization
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
-* **Tools:** Git, SublimeText, Gulp, Rollup, ESLint, SassLint, Babel, Webpack, All Adobe CC products
-
-
-### I'm available for talks/podcasts on the following topics:
-
-* Vue.js (any/all aspects)
-* XPDA (Cross-Platform Desktop Apps, I also have a "Make your first desktop app" workshop)
-* Crafting the perfect Developer Résumé
-* CSS - Specificity, Atomization, Componentization, Patterns
-* Finishing the Projects you start
-* Agile for developers
-
+* **Tools:** Git, VSCode
 
 ### You can also find me on
 
-* [My Portfolio](https://TheJaredWilcurt.com)
-* [Dev.to](https://dev.to/TheJaredWilcurt)
-* [Twitter](https://twitter.com/@TheJaredWilcurt)
-* [Twitch](https://twitch.com/TheJaredWilcurt)
-* [YouTube](https://youtube.com/TheJaredWilcurt)
+* [My Portfolio](https://moonkingarthur.github.io/portfolio/)
+* [Dev.to](https://dev.to/moonkingarthur)
+* [Twitter](https://twitter.com/@MoonKingArthur)
+* [Twitch](https://twitch.com/MoonKingArthur)
 <!--
 **MoonKingArthur/MoonKingArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
