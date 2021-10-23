@@ -7,7 +7,7 @@
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
 * **Tools:** Git, VSCode
 
-### You can also find me on
+### Let's get in touch! You can also find me on
 
 * [My Portfolio](https://moonkingarthur.github.io/portfolio/)
 * [Dev.to](https://dev.to/moonkingarthur)
