@@ -2,16 +2,17 @@
 ![githubBanner](https://user-images.githubusercontent.com/48981108/138737163-e13d87e8-fd31-4666-bb90-ce35d64284fb.png)
 
 
-### Hi, I'm Arthur
-###### ***Software/Web Developer*** 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Arthur Johnson and I'm a web developer/software engineer from the US who specializes in the MERN stack
 
+## 🔧 Technologies & Tools
 * **Languages:** JavaScript (ES2021), Node.js, CSS, HTML, Markdown
 * **Frameworks:** React.js, Bootstrap
 * **Skills:** Agile, UX, Responsive Web Design, Site & Image Optimization, Accessibility, Localization
 * **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
 * **Tools:** Git, VSCode
 
-### Let's get in touch! You can also find me on
+## ☕ Let's get in touch! You can also find me on
 
 * [My Portfolio](https://moonkingarthur.github.io/portfolio/)
 * [Dev.to](https://dev.to/moonkingarthur)
