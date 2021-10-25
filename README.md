@@ -1,6 +1,8 @@
-![alt text](https://imgur.com/a/Az9oorM)
-### Hi, I'm Arthur! 👋
-###### ***Software/Web Developer*** | ***IT Specialist*** | ***Public Speaker***
+![moonkingarthur8](https://user-images.githubusercontent.com/48981108/138731076-f063e934-89ab-4095-a4d1-73bad878f8ea.png)
+
+
+### Hi, I'm Arthur
+###### ***Software/Web Developer*** 
 
 * **Languages:** JavaScript (ES2021), Node.js, CSS, HTML, Markdown
 * **Frameworks:** React.js, Bootstrap
