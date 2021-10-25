@@ -1,3 +1,4 @@
+![alt text](https://imgur.com/a/Az9oorM)
 ### Hi, I'm Arthur! 👋
 ###### ***Software/Web Developer*** | ***IT Specialist*** | ***Public Speaker***
 
