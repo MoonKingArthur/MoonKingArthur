@@ -2,7 +2,7 @@
 ![githubBanner](https://user-images.githubusercontent.com/48981108/138737163-e13d87e8-fd31-4666-bb90-ce35d64284fb.png)
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Arthur Johnson and I'm a web developer/software engineer from the US who specializes in the MERN stack
 
 ## 🔧 Technologies & Tools
