@@ -3,13 +3,13 @@
 
 
 # Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Arthur Johnson and I'm a web developer/software engineer from the US who specializes in the MERN stack
+My name is Arthur Johnson and I'm a full stack C# .NET developer/software engineer from the US
 
 ## 🔧 Technologies & Tools
-* **Languages:** JavaScript (ES2021), Node.js, CSS, HTML, Markdown
-* **Frameworks:** React.js, Bootstrap
+* **Languages:** JavaScript (ES2021), C#, CSS, HTML, Markdown
+* **Frameworks:** ASP.NET, React.js, Bootstrap
 * **Skills:** Agile, UX, Responsive Web Design, Site & Image Optimization, Accessibility, Localization
-* **Web Technologies:** NW.js, Node.js, Express, REST, GitHub Actions, Travis-CI
+* **Web Technologies:** .NET, Express, REST, GitHub Actions, Travis-CI
 * **Tools:** Git, VSCode
 
 ## ☕ Let's get in touch! You can also find me on
