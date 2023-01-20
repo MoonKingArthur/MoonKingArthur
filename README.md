@@ -3,7 +3,7 @@
 
 
 # Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Arthur Johnson and I'm a full stack C# .NET developer/software engineer from the US
+My name is Arthur Johnson (he/him) and I'm a full stack C# .NET developer/software engineer from the US
 
 ## 🔧 Technologies & Tools
 * **Languages:** JavaScript (ES2021), C#, CSS, HTML, Markdown
